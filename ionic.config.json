@@ -1,0 +1,7 @@
+{
+  "name": "MyDevelopmentTestCordova",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
